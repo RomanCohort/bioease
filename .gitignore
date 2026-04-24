@@ -1,0 +1,9 @@
+.venv/
+build/
+dist/
+result/
+results/
+*.log
+*.spec
+*.png
+GDCdata/
