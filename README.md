@@ -53,3 +53,15 @@ Rscript analysis.R
 ## 许可证
 
 MIT License
+
+## Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [paper-search-tool](https://github.com/RomanCohort/paper-search-tool) | AI 论文搜索与整理工具 |
+| [ai-desktop-pet](https://github.com/RomanCohort/ai-desktop-pet) | AI 桌面宠物 |
+| [web-crawler-v2](https://github.com/RomanCohort/web-crawler-v2) | 网站爬取器 |
+| [berlin-tank-commander](https://github.com/RomanCohort/berlin-tank-commander) | 柏林车长文字冒险 |
+| [bioease](https://github.com/RomanCohort/bioease) | 生物信息学分析 |
+| [IGEM-sama](https://github.com/RomanCohort/IGEM-sama) | IGEM AI 虚拟主播 |
+| [ppt-agent](https://github.com/RomanCohort/ppt-agent) | PPT 草稿生成器 |
